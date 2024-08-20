@@ -1,0 +1,4 @@
+{
+    "model":"bigscience/bloomz-1b1",
+    "disable_log_requests": "false"
+}
